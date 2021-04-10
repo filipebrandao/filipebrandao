@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  I'm Filipe Brandão, a software engineer born and raised in Portugal 🇵🇹
+
+  I'm currently working as a remote Lead Android Developer at GrocerKey, improving the shopping experience in North America and making the remote-first paradigm shift a reality.
+
+  I'm interested in challenging today's work boundaries by making the remote-first paradigm shift a reality.
+  
+  Check out my  personal web page at [aboutfilipe.com](https://www.aboutfilipe.com) or my [LinkedIn profile](https://www.linkedin.com/in/filipebrandao90/) for more details about my work.
 <!--
 **filipebrandao/filipebrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
