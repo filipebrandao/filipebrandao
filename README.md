@@ -2,7 +2,7 @@
 
   I'm Filipe Brandão, a software engineer born and raised in Portugal 🇵🇹
 
-  I'm currently working as a remote Lead Android Developer at GrocerKey, improving the shopping experience in North America and making the remote-first paradigm shift a reality.
+  I'm currently working as a remote Android Developer at Busbud - developing software that users love, enabling them to have a delightful experience when traveling in a sustainable way.
 
   I'm interested in challenging today's work boundaries by making the remote-first paradigm shift a reality.
   
